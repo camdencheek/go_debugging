@@ -4,6 +4,10 @@ The purpose of this is to put together a few examples of working with a `dlv` to
 
 Using the debugger is not hard, but usually by the time we feel we need a debugger, it's because we're desperately trying to solve an issue and we don't want to spend the time climbing the learning curve.
 
+# Install delve
+
+https://github.com/go-delve/delve/blob/master/Documentation/installation/osx/install.md
+
 # Why use a debugger?
 
 Personally, I still love `print` and `fmt.Printf` statements. They're super quick to drop in exactly where I'm already looking at the code, and they're pretty flexible. Sometimes, they just don't quite cut it though.
